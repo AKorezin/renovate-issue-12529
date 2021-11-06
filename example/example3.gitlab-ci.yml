@@ -1,0 +1,5 @@
+---
+include:
+  - project: "AKorezin/renovate-issue-12529"
+    ref: "2.0.0"
+    file: "/templates/.gitlab-ci.yml"
