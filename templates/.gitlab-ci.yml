@@ -5,4 +5,4 @@ stages:
 Test:
   stage: test
   script:
-    - echo 2
+    - echo 3
